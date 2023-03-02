@@ -1,0 +1,18 @@
+h1{
+    width: auto;
+    height: auto;
+    color: brown;
+    text-align: center;
+}
+h2{
+    width: auto;
+    height: auto;
+    color: red;
+    text-align: center;
+}
+pre{
+    width: auto;
+    height: auto;
+    background-color: limegreen;
+    text-align: center;
+}
